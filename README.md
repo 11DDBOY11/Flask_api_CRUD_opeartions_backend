@@ -7,4 +7,4 @@ The backend is implemented using Flask, with SQLite as the database. The project
 
 This project helped me understand REST API design, HTTP methods (GET, POST, PUT, DELETE), database integration, and JSON response handling in Flask. It is suitable for beginners who want to learn backend development using Python and Flask.
 
-Future improvements may include authentication, input validation, error handling, and deployment to cloud platforms.
+Future improvements may include authentication, input validation, error handling, and deployment to cloud platforms .
