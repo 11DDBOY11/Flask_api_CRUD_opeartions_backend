@@ -56,7 +56,7 @@ def delete_one():
     conn.execute("""  DELETE FROM students WHERE id=? """,(id,))
     conn.commit()
     conn.close()
-    return jsonify({"message" : "student deleted succussfully"})
+    return jsonify({"message" :"student deleted succussfully"})
 
 
 
